@@ -1,0 +1,11 @@
+/*navbar*/
+
+.navbar-light .navbar-brand  {
+    color: #fff;
+}
+
+a.navbar-brand {
+    background-color: #4aaaa5;
+}
+
+/*finish styling*/
